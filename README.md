@@ -1,5 +1,10 @@
 # 💫 About Me:
-I'm CTO and Co-Founder at WiFeed Tecnologia. I've been working in the tech field for 13 years. I love technology since I got a computer. I'm senior programmer in Java Programming Language and I have experience in computer networking as well. My goal is learn about new concepts, understand how the things work and improve myself to be a better professional. 
+ I've been working in the tech field for 13 years. I have loved technology
+ever since I got my first computer. I'm a senior programmer in Java Programming Language and I also
+have experience in computer networking. During my career I have created systems from scratch,
+helped companies improve processes and guided my teams to solve problems. My goal is to learn
+about new concepts, understand how things work and develop myself to be a better professional.
+
 
 
 ## 🌐 Socials:
